@@ -3,9 +3,10 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+*  [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+
+
 
 
 
